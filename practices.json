@@ -1,0 +1,23 @@
+[
+  {
+    "id": "daily-short",
+    "title": "תרגול יומי קצר",
+    "desc": "סריקת גוף והתמקדות בנשימה — להתחלה רכה של היום",
+    "minutes": 15,
+    "url": "https://healing-light.co.il/wp-content/uploads/2026/07/nochechut-daily-short.mp3"
+  },
+  {
+    "id": "mountain",
+    "title": "כמו הר",
+    "desc": "יציבות ונוכחות — לשהות עם מה שעובר, בלי להיסחף",
+    "minutes": 20,
+    "url": "https://healing-light.co.il/wp-content/uploads/2026/07/nochechut-mountain.mp3"
+  },
+  {
+    "id": "relaxation",
+    "title": "הרפיה עמוקה",
+    "desc": "שחרור עמוק של הגוף — מצוין לסוף היום או לפני שינה",
+    "minutes": 25,
+    "url": "https://healing-light.co.il/wp-content/uploads/2026/07/nochechut-relaxation.mp3"
+  }
+]
