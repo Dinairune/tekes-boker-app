@@ -1,10 +1,24 @@
 [
   {
+    "id": "quiet-short",
+    "title": "תרגול שקט קצר",
+    "desc": "עשר דקות של שקט — נקודת כניסה רכה, גם ליום עמוס",
+    "minutes": 10,
+    "url": "https://healing-light.co.il/wp-content/uploads/2026/07/nochechut-quiet-short.mp3"
+  },
+  {
     "id": "daily-short",
     "title": "תרגול יומי קצר",
     "desc": "סריקת גוף והתמקדות בנשימה — להתחלה רכה של היום",
     "minutes": 15,
     "url": "https://healing-light.co.il/wp-content/uploads/2026/07/nochechut-daily-short.mp3"
+  },
+  {
+    "id": "bodyscan",
+    "title": "סריקת גוף, נשימה והרגשה",
+    "desc": "מסע קשוב דרך הגוף — להקשיב למה שיש, בלי לתקן",
+    "minutes": 15,
+    "url": "https://healing-light.co.il/wp-content/uploads/2026/07/nochechut-bodyscan.mp3"
   },
   {
     "id": "mountain",
@@ -14,10 +28,38 @@
     "url": "https://healing-light.co.il/wp-content/uploads/2026/07/nochechut-mountain.mp3"
   },
   {
+    "id": "monk",
+    "title": "דמיון הנזיר",
+    "desc": "דמיון מודרך אל מרחב פנימי של שקט ובהירות",
+    "minutes": 20,
+    "url": "https://healing-light.co.il/wp-content/uploads/2026/07/nochechut-monk.mp3"
+  },
+  {
+    "id": "gratitude",
+    "title": "התמקדות בטוב והכרת תודה",
+    "desc": "לפנות מקום לטוב שכבר נמצא — מתחבר יפה לשלב התודה",
+    "minutes": 25,
+    "url": "https://healing-light.co.il/wp-content/uploads/2026/07/nochechut-gratitude.mp3"
+  },
+  {
     "id": "relaxation",
     "title": "הרפיה עמוקה",
     "desc": "שחרור עמוק של הגוף — מצוין לסוף היום או לפני שינה",
     "minutes": 25,
     "url": "https://healing-light.co.il/wp-content/uploads/2026/07/nochechut-relaxation.mp3"
+  },
+  {
+    "id": "nature",
+    "title": "חיבור לטבע",
+    "desc": "תרגול ארוך של התחברות לטבע שבחוץ ולטבע שבפנים",
+    "minutes": 30,
+    "url": "https://healing-light.co.il/wp-content/uploads/2026/07/nochechut-nature.mp3"
+  },
+  {
+    "id": "quiet-long",
+    "title": "תרגול שקט ארוך",
+    "desc": "שלושים דקות של שהייה בשקט — לתרגול מעמיק",
+    "minutes": 30,
+    "url": "https://healing-light.co.il/wp-content/uploads/2026/07/nochechut-quiet-long.mp3"
   }
 ]
